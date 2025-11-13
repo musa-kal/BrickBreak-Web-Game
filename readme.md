@@ -1,4 +1,4 @@
-# 🧱 Brick Break - Customizable Sandbox Edition
+# 🧱 BrickBreak - Web Game
 
 **Author:** Musa Kaleem  
 **Built with:** HTML, CSS, and Vanilla JavaScript  
